@@ -1,5 +1,7 @@
-bitrix
-upload
+/bitrix
+/upload
+/.idea
+/.code
 .access.php
 .htaccess
 .htaccess.restore
